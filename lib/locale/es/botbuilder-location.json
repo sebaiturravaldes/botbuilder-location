@@ -19,5 +19,7 @@
     "SingleResultFound": "Encontré este resultado. ¿Esta dirección es correcta?",    
     "StreetAddress": "dirección",
     "TitleSuffix": "  Escriba o diga la dirección",
-    "TitleSuffixFacebook": " Seleccione 'Enviar ubicación' para elegir una dirección."
+    "TitleSuffixFacebook": " Seleccione 'Enviar ubicación' para elegir una dirección.",
+    "ConfirmationTrue": "Si",
+    "ConfirmationFalse": "No"
 }   
