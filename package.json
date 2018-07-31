@@ -6,19 +6,18 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "botbuilder-location@git+https://github.com/siturra/botbuilder-location.git",
-    "name": "botbuilder-location",
-    "escapedName": "botbuilder-location",
+    "raw": "git+https://github.com/siturra/botbuilder-location.git",
     "rawSpec": "git+https://github.com/siturra/botbuilder-location.git",
     "saveSpec": "git+https://github.com/siturra/botbuilder-location.git",
     "fetchSpec": "https://github.com/siturra/botbuilder-location.git",
     "gitCommittish": null
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/siturra/botbuilder-location.git#83d3ee9d865156aaa22c24b2884a3fa08cbee2ce",
-  "_spec": "botbuilder-location@git+https://github.com/siturra/botbuilder-location.git",
+  "_resolved": "git+https://github.com/siturra/botbuilder-location.git#473f05ca22cdc982c948aaabaef346c05379d301",
+  "_spec": "git+https://github.com/siturra/botbuilder-location.git",
   "_where": "/private/var/www/chatbot.asimov.cl",
   "author": {
     "name": "Microsoft Corp."
