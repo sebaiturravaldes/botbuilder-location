@@ -1,9 +1,37 @@
 {
+  "_args": [
+    [
+      "git+https://github.com/siturra/botbuilder-location.git",
+      "/private/var/www/chatbot.asimov.cl"
+    ]
+  ],
   "_from": "git+https://github.com/siturra/botbuilder-location.git",
-  "_id": "botbuilder-location@2.0.0",
+  "_id": "botbuilder-location@git+https://github.com/siturra/botbuilder-location.git#0b9d76ecf97dc2269509dd267df26745c73e2e70",
   "_inBundle": false,
+  "_integrity": "",
   "_location": "/botbuilder-location",
-  "_phantomChildren": {},
+  "_phantomChildren": {
+    "@types/async": "2.0.50",
+    "@types/express": "4.16.0",
+    "@types/form-data": "2.2.1",
+    "@types/jsonwebtoken": "7.2.8",
+    "@types/node": "9.6.36",
+    "@types/request": "2.48.1",
+    "@types/sprintf-js": "1.1.1",
+    "@types/url-join": "0.8.2",
+    "base64url": "2.0.0",
+    "chrono-node": "1.3.5",
+    "joi": "6.10.1",
+    "jws": "3.1.5",
+    "lodash.once": "4.1.1",
+    "ms": "2.1.1",
+    "promise": "7.3.1",
+    "request": "2.88.0",
+    "rsa-pem-from-mod-exp": "0.8.4",
+    "sprintf-js": "1.1.1",
+    "url-join": "1.1.0",
+    "xtend": "4.0.1"
+  },
   "_requested": {
     "type": "git",
     "raw": "git+https://github.com/siturra/botbuilder-location.git",
@@ -13,10 +41,9 @@
     "gitCommittish": null
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/siturra/botbuilder-location.git#473f05ca22cdc982c948aaabaef346c05379d301",
+  "_resolved": "git+https://github.com/siturra/botbuilder-location.git#0b9d76ecf97dc2269509dd267df26745c73e2e70",
   "_spec": "git+https://github.com/siturra/botbuilder-location.git",
   "_where": "/private/var/www/chatbot.asimov.cl",
   "author": {
